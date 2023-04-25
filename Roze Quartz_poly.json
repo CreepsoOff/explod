@@ -1,0 +1,158 @@
+{
+    "name": "Roze Quartz",
+    "description": "Cool Theme.",
+    "authors": [
+        {
+            "name": "Matt",
+            "id": "755950362342457384"
+        }
+    ],
+    "semanticColors": {
+        "HEADER_PRIMARY": [
+            "#e792c1",
+            "#060607"
+        ],
+        "HEADER_SECONDARY": [
+            "#fefffe",
+            "#4f5660"
+        ],
+        "TEXT_NORMAL": [
+            "#FBFBFB",
+            "#2e3338"
+        ],
+        "TEXT_MUTED": [
+            "#e792c1",
+            "#747f8d"
+        ],
+        "INTERACTIVE_NORMAL": [
+            "#fefffe",
+            "#4f5660"
+        ],
+        "INTERACTIVE_HOVER": [
+            "#dcddde",
+            "#2e3338"
+        ],
+        "INTERACTIVE_ACTIVE": [
+            "#95a7fd",
+            "#060607"
+        ],
+        "INTERACTIVE_MUTED": [
+            "#697eab",
+            "#c7ccd1"
+        ],
+        "BACKGROUND_PRIMARY": [
+            "#1e1e2e",
+            "#ffffff"
+        ],
+        "BACKGROUND_SECONDARY": [
+            "#1e1e2e",
+            "#f2f3f5"
+        ],
+        "BACKGROUND_SECONDARY_ALT": [
+            "#1e1e2e",
+            "#ebedef"
+        ],
+        "BACKGROUND_TERTIARY": [
+            "#11111b",
+            "#e3e5e8"
+        ],
+        "BACKGROUND_ACCENT": [
+            "#11111b",
+            "#747f8d"
+        ],
+        "BACKGROUND_FLOATING": [
+            "#1e1e2e",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MOBILE_PRIMARY": [
+            "#1e1e2e",
+            "#f8f9f9"
+        ],
+        "BACKGROUND_MOBILE_SECONDARY": [
+            "#1e1e2e",
+            "#ffffff"
+        ],
+        "BACKGROUND_NESTED_FLOATING": [
+            "#1e1e2e",
+            "#ffffff"
+        ],
+        "BACKGROUND_MESSAGE_HOVER": [
+            "rgba(255, 255, 255, 0.02)",
+            "#FFFFFF"
+        ],
+        "BACKGROUND_MODIFIER_HOVER": [
+            "rgba(255, 255, 255, 0.02)",
+            "hsla(214, 9.9%, 50.4%, 0.08)"
+        ],
+        "BACKGROUND_MODIFIER_ACTIVE": [
+            "rgba(255, 255, 255, 0.03)",
+            "hsla(214, 9.9%, 50.4%, 0.16)"
+        ],
+        "BACKGROUND_MODIFIER_SELECTED": [
+            "rgba(255, 255, 255, 0.04)",
+            "hsla(214, 9.9%, 50.4%, 0.24)"
+        ],
+        "BACKGROUND_MODIFIER_ACCENT": [
+            "transparent",
+            "hsla(240, 7.7%, 2.5%, 0.08)"
+        ],
+        "SCROLLBAR_THIN_THUMB": [
+            "#45475a",
+            "hsla(217, 7.6%, 33.5%, 0.3)"
+        ],
+        "SCROLLBAR_THIN_TRACK": [
+            "transparent",
+            "#45475a"
+        ],
+        "SCROLLBAR_AUTO_THUMB": [
+            "#2a1858",
+            "#cccccc"
+        ],
+        "SCROLLBAR_AUTO_TRACK": [
+            "rgba(0, 0, 0, 0.1)",
+            "#45475a"
+        ],
+        "CHANNELTEXTAREA_BACKGROUND": [
+            "#111111",
+            "#ebedef"
+        ],
+        "CHANNELS_DEFAULT": [
+            "#b6b6b6",
+            "#6a7480"
+        ],
+        "TEXT_LINK": [
+            "#95a7fd",
+            "#000000"
+        ],
+        "KEYBOARD": [
+            "#212027",
+            "#FFFFFF"
+        ],
+        "CHAT_BACKGROUND": [
+            "#1e1e2e",
+            "#ffffff"
+        ]
+    },
+    "rawColors": {
+        "PRIMARY_500": "#697eab",
+        "PRIMARY_100": "#FFFFFF",
+        "PRIMARY_200": "#FFFFFF",
+        "PRIMARY_300": "#fefffe",
+        "PRIMARY_360": "#fcfdfc",
+        "PRIMARY_400": "#bebee3",
+        "PRIMARY_600": "#212027",
+        "PRIMARY_630": "#343843",
+        "PRIMARY_700": "#1a1b21",
+        "PRIMARY_800": "#212027",
+        "BRAND_500": "#86a2de",
+        "RED_500": "#c18ea4",
+        "GREEN_600": "#87a2de",
+        "YELLOW_500": "#c18ea4"
+    },
+    "background": {
+        "blur": 0.1,
+        "url": "https://cdn.discordapp.com/attachments/792901931341053983/1032192391857328158/Untitled1329_20221019032333.png",
+        "alpha": 1
+    },
+    "spec": 2
+}
