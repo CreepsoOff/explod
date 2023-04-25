@@ -148,11 +148,4 @@
         "RED_500": "#c18ea4",
         "GREEN_600": "#87a2de",
         "YELLOW_500": "#c18ea4"
-    },
-    "background": {
-        "blur": 0.1,
-        "url": "https://cdn.discordapp.com/attachments/792901931341053983/1032192391857328158/Untitled1329_20221019032333.png",
-        "alpha": 1
-    },
-    "spec": 2
 }
