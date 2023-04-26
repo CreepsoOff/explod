@@ -132,23 +132,6 @@
             "#1e1e2e",
             "#ffffff"
         ]
-    },
-    "rawColors": {
-        "PRIMARY_500": "#697eab",
-        "PRIMARY_100": "#FFFFFF",
-        "PRIMARY_200": "#FFFFFF",
-        "PRIMARY_300": "#fefffe",
-        "PRIMARY_360": "#fcfdfc",
-        "PRIMARY_400": "#bebee3",
-        "PRIMARY_600": "#212027",
-        "PRIMARY_630": "#343843",
-        "PRIMARY_700": "#1a1b21",
-        "PRIMARY_800": "#212027",
-        "BRAND_500": "#86a2de",
-        "RED_500": "#c18ea4",
-        "GREEN_600": "#87a2de",
-        "YELLOW_500": "#c18ea4"
-
   }, 
    "rawColors": { 
      "PRIMARY_600": "#252A3E", 
