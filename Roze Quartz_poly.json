@@ -107,6 +107,10 @@
         "SCROLLBAR_AUTO_THUMB": [
             "#2a1858",
             "#cccccc"
+        ], 
+         "SPOILER_HIDDEN_BACKGROUND": [ 
+             "#14141f", 
+             "#ffffff"
         ],
         "SCROLLBAR_AUTO_TRACK": [
             "rgba(0, 0, 0, 0.1)",
