@@ -13,7 +13,7 @@
             "#060607"
         ],
         "HEADER_SECONDARY": [
-            "#fefffe",
+            "#ffbaf2",
             "#4f5660"
         ],
         "TEXT_NORMAL": [
@@ -21,11 +21,11 @@
             "#2e3338"
         ],
         "TEXT_MUTED": [
-            "#e792c1",
+            "#ffbaf2",
             "#747f8d"
         ],
         "INTERACTIVE_NORMAL": [
-            "#fefffe",
+            "#ffbaf2",
             "#4f5660"
         ],
         "INTERACTIVE_HOVER": [
@@ -33,7 +33,7 @@
             "#2e3338"
         ],
         "INTERACTIVE_ACTIVE": [
-            "#95a7fd",
+            "#ffbaf2",
             "#060607"
         ],
         "INTERACTIVE_MUTED": [
@@ -42,14 +42,14 @@
         ],
         "BACKGROUND_PRIMARY": [
             "#1e1e2e",
-            "#ffffff"
+            "#1e1e2e"
         ],
         "BACKGROUND_SECONDARY": [
             "#14141f",
             "#f2f3f5"
         ],
         "BACKGROUND_SECONDARY_ALT": [
-            "#1e1e2e",
+            "#14141f",
             "#ebedef"
         ],
         "BACKGROUND_TERTIARY": [
@@ -57,7 +57,7 @@
             "#e3e5e8"
         ],
         "BACKGROUND_ACCENT": [
-            "#11111b",
+            "#ffbaf2",
             "#747f8d"
         ],
         "BACKGROUND_FLOATING": [
@@ -69,7 +69,7 @@
             "#f8f9f9"
         ],
         "BACKGROUND_MOBILE_SECONDARY": [
-            "#1e1e2e",
+            "#14141f",
             "#ffffff"
         ],
         "BACKGROUND_NESTED_FLOATING": [
@@ -89,11 +89,11 @@
             "hsla(214, 9.9%, 50.4%, 0.16)"
         ],
         "BACKGROUND_MODIFIER_SELECTED": [
-            "rgba(255, 255, 255, 0.04)",
+            "#1e1e2e",
             "hsla(214, 9.9%, 50.4%, 0.24)"
         ],
         "BACKGROUND_MODIFIER_ACCENT": [
-            "transparent",
+            "#14141f",
             "hsla(240, 7.7%, 2.5%, 0.08)"
         ],
         "SCROLLBAR_THIN_THUMB": [
@@ -140,8 +140,8 @@
      "PRIMARY_700": "#14141f ", 
      "PRIMARY_800": "#14141f", 
      "BRAND_260": "#419E85", 
-     "BRAND_360": "#419E85", 
-     "BRAND_500": "#419E85", 
+     "BRAND_360": "#ffbaf2", 
+     "BRAND_500": "#ffbaf2", 
      "BRAND_560": "#265C4D"
    },
     "spec": 2
