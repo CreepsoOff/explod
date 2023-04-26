@@ -121,7 +121,7 @@
             "#6a7480"
         ],
         "TEXT_LINK": [
-            "#95a7fd",
+            "#",
             "#000000"
         ],
         "KEYBOARD": [
@@ -134,10 +134,10 @@
         ]
   }, 
    "rawColors": { 
-     "PRIMARY_600": "#252A3E", 
-     "PRIMARY_630": "#1E2337", 
-     "PRIMARY_660": "#060C24", 
-     "PRIMARY_700": "#252A3E", 
+     "PRIMARY_600": "#14141f ", 
+     "PRIMARY_630": "#14141f ", 
+     "PRIMARY_660": "#14141f ", 
+     "PRIMARY_700": "#14141f ", 
      "PRIMARY_800": "#060C24", 
      "BRAND_260": "#419E85", 
      "BRAND_360": "#419E85", 
