@@ -148,6 +148,18 @@
         "RED_500": "#c18ea4",
         "GREEN_600": "#87a2de",
         "YELLOW_500": "#c18ea4"
-    },
+
+  }, 
+   "rawColors": { 
+     "PRIMARY_600": "#252A3E", 
+     "PRIMARY_630": "#1E2337", 
+     "PRIMARY_660": "#060C24", 
+     "PRIMARY_700": "#252A3E", 
+     "PRIMARY_800": "#060C24", 
+     "BRAND_260": "#419E85", 
+     "BRAND_360": "#419E85", 
+     "BRAND_500": "#419E85", 
+     "BRAND_560": "#265C4D"
+   },
     "spec": 2
 }
