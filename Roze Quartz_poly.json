@@ -1,154 +1,143 @@
 {
-    "name": "Roze Quartz",
-    "description": "Cool Theme.",
-    "authors": [
-        {
-            "name": "Matt",
-            "id": "755950362342457384"
-        }
+  "name": "RozeQuartz",
+  "description": "mimimi",
+  "authors": [
+    {
+      "name": "Matt",
+      "id": "755950362342457384"
+    }
+  ],
+  "semanticColors": {
+    "BACKGROUND_ACCENT": [
+      "#e0def4"
     ],
-    "semanticColors": {
-        "HEADER_PRIMARY": [
-            "#FBFBFB",
-            "#060607"
-        ],
-        "HEADER_SECONDARY": [
-            "#ffbaf2",
-            "#4f5660"
-        ],
-        "TEXT_NORMAL": [
-            "#FBFBFB",
-            "#2e3338"
-        ],
-        "TEXT_MUTED": [
-            "#f7d0f0",
-            "#747f8d"
-        ],
-        "INTERACTIVE_NORMAL": [
-            "#ffbaf2",
-            "#4f5660"
-        ],
-        "INTERACTIVE_HOVER": [
-            "#dcddde",
-            "#2e3338"
-        ],
-        "INTERACTIVE_ACTIVE": [
-            "#ffbaf2",
-            "#060607"
-        ],
-        "INTERACTIVE_MUTED": [
-            "#697eab",
-            "#c7ccd1"
-        ],
-        "BACKGROUND_PRIMARY": [
-            "#1e1e2e",
-            "#1e1e2e"
-        ],
-        "BACKGROUND_SECONDARY": [
-            "#14141f",
-            "#f2f3f5"
-        ],
-        "BACKGROUND_SECONDARY_ALT": [
-            "#14141f",
-            "#ebedef"
-        ],
-        "BACKGROUND_TERTIARY": [
-            "#11111b",
-            "#e3e5e8"
-        ],
-        "BACKGROUND_ACCENT": [
-            "#ffbaf2",
-            "#747f8d"
-        ],
-        "BACKGROUND_FLOATING": [
-            "#1e1e2e",
-            "#FFFFFF"
-        ],
-        "BACKGROUND_MOBILE_PRIMARY": [
-            "#1e1e2e",
-            "#f8f9f9"
-        ],
-        "BACKGROUND_MOBILE_SECONDARY": [
-            "#14141f",
-            "#ffffff"
-        ],
-        "BACKGROUND_NESTED_FLOATING": [
-            "#1e1e2e",
-            "#ffffff"
-        ],
-        "BACKGROUND_MESSAGE_HOVER": [
-            "rgba(255, 255, 255, 0.02)",
-            "#FFFFFF"
-        ],
-        "BACKGROUND_MODIFIER_HOVER": [
-            "rgba(255, 255, 255, 0.02)",
-            "hsla(214, 9.9%, 50.4%, 0.08)"
-        ],
-        "BACKGROUND_MODIFIER_ACTIVE": [
-            "rgba(255, 255, 255, 0.03)",
-            "rgba(139, 116, 139, 0.16)"
-        ],
-        "BACKGROUND_MODIFIER_SELECTED": [
-            "#1e1e2e",
-            "hsla(214, 9.9%, 50.4%, 0.24)"
-        ],
-        "BACKGROUND_MODIFIER_ACCENT": [
-            "#14141f",
-            "hsla(240, 7.7%, 2.5%, 0.08)"
-        ],
-        "SCROLLBAR_THIN_THUMB": [
-            "#45475a",
-            "hsla(217, 7.6%, 33.5%, 0.3)"
-        ],
-        "SCROLLBAR_THIN_TRACK": [
-            "14141f",
-            "#45475a"
-        ],
-        "SCROLLBAR_AUTO_THUMB": [
-            "#2a1858",
-            "#cccccc"
-        ], 
-         "SPOILER_HIDDEN_BACKGROUND": [ 
-             "#14141f", 
-             "#ffffff"
-        ],
-        "SCROLLBAR_AUTO_TRACK": [
-            "#14141f",
-            "#45475a"
-        ],
-        "CHANNELTEXTAREA_BACKGROUND": [
-            "#111111",
-            "#ebedef"
-        ],
-        "CHANNELS_DEFAULT": [
-            "#b6b6b6",
-            "#6a7480"
-        ],
-        "TEXT_LINK": [
-            "#ffbaf2",
-            "#000000"
-        ],
-        "KEYBOARD": [
-            "#212027",
-            "#FFFFFF"
-        ],
-        "CHAT_BACKGROUND": [
-            "#1e1e2e",
-            "#ffffff"
-        ]
-  }, 
-   "rawColors": { 
-     "PRIMARY_600": "#14141f ", 
-     "PRIMARY_630": "#14141f ", 
-     "PRIMARY_660": "#14141f ", 
-     "PRIMARY_700": "#14141f ", 
-     "PRIMARY_800": "#14141f", 
-     "BRAND_260": "#ff9ecb", 
-     "BRAND_360": "#ffbaf2", 
-     "BRAND_500": "#ffbaf2", 
-     "BRAND_560": "#ffbaf2",
-    "YELLOW_300": "#f7d0f0", 
+    "BACKGROUND_MESSAGE_HOVER": [
+      "#26233a"
+    ],
+    "BACKGROUND_MOBILE_PRIMARY": [
+      "#1e1e2e"
+    ],
+    "BACKGROUND_MOBILE_SECONDARY": [
+      "#14141f"
+    ],
+    "BACKGROUND_MODIFIER_ACCENT": [
+      "#ffbaf2"
+    ],
+    "BACKGROUND_MODIFIER_ACTIVE": [
+      "#ffbaf2"
+    ],
+    "BACKGROUND_MODIFIER_HOVER": [
+      "#1f1d2e"
+    ],
+    "BACKGROUND_MODIFIER_SELECTED": [
+      "#26233a"
+    ],
+    "BACKGROUND_PRIMARY": [
+      "#1e1e2e"
+    ],
+    "BACKGROUND_SECONDARY": [
+      "#14141f"
+    ],
+    "BACKGROUND_SECONDARY_ALT": [
+      "#14141f"
+    ],
+    "BACKGROUND_TERTIARY": [
+      "#11111b"
+    ],
+    "CHANNEL_ICON": [
+      "#ffbaf2"
+    ],
+    "CHANNELS_DEFAULT": [
+      "#b6b6b6"
+    ],
+    "CHAT_BACKGROUND": [
+      "#1e1e2e"
+    ],
+    "HEADER_PRIMARY": [
+      "#e0def4"
+    ],
+    "HEADER_SECONDARY": [
+      "#e0def4"
+    ],
+    "HOME_BACKGROUND": [
+      "#1f1d2e"
+    ],
+    "INTERACTIVE_ACTIVE": [
+      "#ffbaf2"
+    ],
+    "INTERACTIVE_HOVER": [
+      "#ffbaf2"
+    ],
+    "INTERACTIVE_MUTED": [
+      "#f7d0f0"
+    ],
+    "INTERACTIVE_NORMAL": [
+      "#ffbaf2"
+    ],
+    "REDESIGN_ACTIVITY_CARD_BACKGROUND": [
+      "#14141f"
+    ],
+    "SPOILER_HIDDEN_BACKGROUND": [
+      "#11111b"
+    ],
+    "TEXT_DANGER": [
+      "#eb6f92"
+    ],
+    "TEXT_LINK": [
+      "#ffbaf2"
+    ],
+    "TEXT_MUTED": [
+      "#6e6a86"
+    ],
+    "TEXT_NORMAL": [
+      "#e0def4"
+    ],
+    "CARD_PRIMARY_BG": [
+      "#191724"
+    ],
+    "CARD_SECONDARY_BG": [
+      "#26233a"
+    ]
+  },
+  "rawColors": {
+    "PRIMARY_600": "#14141f",
+    "PRIMARY_630": "#14141f",
+    "PRIMARY_660": "#14141f",
+    "PRIMARY_700": "#14141f",
+    "PRIMARY_800": "#14141f",
+    "BRAND_260": "#ff9ecb",
+    "BRAND_360": "#ffbaf2",
+    "BRAND_500": "#ffbaf2",
+    "BRAND_560": "#ffbaf2",
+    "YELLOW_300": "#f7d0f0",
     "RED_400": "#e82066"
-   },
-    "spec": 2
+  },
+  "plus": {
+    "version": "0",
+    "iconpack": "rosiecord-plumpy",
+    "icons": {
+      "ic_new_pins": [
+        "#eb6f92"
+      ],
+      "StatusStreaming": [
+        "#7e64fb"
+      ],
+      "StatusMobileOnline": [
+        "#09bd63"
+      ],
+      "StatusIdle": [
+        "#ffd401"
+      ],
+      "StatusDND": [
+        "#ab203a"
+      ],
+      "StatusOffline": [
+        "#52464f"
+      ],
+      "StatusOnline": [
+        "#09bd63"
+      ]
+    }
+  },
+  "spec": 2
 }
